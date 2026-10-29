@@ -7,7 +7,7 @@ body {
     line-height: 1.5;
 }
 
-.ylaosa {
+header {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -16,7 +16,7 @@ body {
     margin-bottom: 20px;
 }
 
-.logo {
+logo {
     font-size: 1.2rem;
     font-weight: bold;
     color: darkcyan;
@@ -55,4 +55,15 @@ img {
 
 p {
     font-size: 1rem;
+}
+
+.flex-container {
+    display: flex;
+    gap: 10px;
+}
+
+.card {
+    padding: 20px;
+    background-color: #ffffff;
+    border: 1px solid #333333;
 }
