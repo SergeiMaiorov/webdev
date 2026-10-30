@@ -22,14 +22,14 @@ header {
 
 
 nav a {
-    color: darkcyan;
+    color: #004d54;
     text-decoration: none;
     margin-left: 15px;
     font-weight: bold;
 }
 
 nav a:hover {
-    color: darkturquoise;
+    color: #002b30;
     text-decoration: underline;
 }
 
