@@ -15,3 +15,7 @@ Aloitettu JS Module 1 & 2
 ## 30102026
 Jatka tehtävän tekemistä - Tehtävä 1: Yrityksen verkkosivusto HTML:llä ja CSS:llä
 Jatka tehtävän tekemistä -  JS Module 1 & 2
+
+## 31102026
+Valmis Tehtävä 1: Yrityksen verkkosivusto HTML:llä ja CSS:llä
+Osasto valmis  JS Module 1 & 2
