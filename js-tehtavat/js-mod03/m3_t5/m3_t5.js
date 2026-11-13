@@ -1,11 +1,16 @@
+const numbers = [];
 
-const luvut = [];
-
-for (let i = 0; i < 5; i++) {
-    const syote = Number(prompt(`Anna ${i + 1}. luku:`));
-    luvut.push(syote);
+while (true) {
+    const num = Number(prompt('Anna luku:'));
+    if (numbers.includes(num)) {
+        alert('Luku on jo annettu!');
+        break;
+    }
+    numbers.push(num);
 }
 
-for (let i = luvut.length - 1; i >= 0; i--) {
-    console.log(luvut[i]);
+numbers.sort((a, b) => a - b);
+
+for (let i = 0; i < numbers.length; i++) {
+    console.log(numbers[i]);
 }
