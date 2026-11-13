@@ -40,7 +40,33 @@ Tehdyt tehtävät:
 
 ### JS-moduuli 3
 -
+GitHub-repositorio
 
+https://github.com/SergeiMaiorov/webdev/tree/main/js-tehtavat/js-mod03
+
+
+GitHub Pages
+
+https://sergeimaiorov.github.io/webdev/js-tehtavat/js-mod03/m3_t1/m3_t1.html
+
+https://sergeimaiorov.github.io/webdev/js-tehtavat/js-mod03/m3_t2/m3_t2.html
+
+https://sergeimaiorov.github.io/webdev/js-tehtavat/js-mod03/m3_t3/m3_t3.html
+
+https://sergeimaiorov.github.io/webdev/js-tehtavat/js-mod03/m3_t5/m3_t5.html
+
+https://sergeimaiorov.github.io/webdev/js-tehtavat/js-mod03/m3_t7/m3_t7.html
+
+
+
+Tehdyt tehtävät:
+- Tehtävä 1: 2 p
+- Tehtävä 2: 2 p
+- Tehtävä 3: 2 p
+- Tehtävä 4: 2 p
+- Tehtävä 5: 2 p
+
+**Yhteensä 10p**
 
 
 
