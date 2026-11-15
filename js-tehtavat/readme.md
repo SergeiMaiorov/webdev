@@ -39,7 +39,7 @@ Tehdyt tehtävät:
 
 
 ### JS-moduuli 3
--
+
 GitHub-repositorio
 
 https://github.com/SergeiMaiorov/webdev/tree/main/js-tehtavat/js-mod03
@@ -53,9 +53,9 @@ https://sergeimaiorov.github.io/webdev/js-tehtavat/js-mod03/m3_t2/m3_t2.html
 
 https://sergeimaiorov.github.io/webdev/js-tehtavat/js-mod03/m3_t3/m3_t3.html
 
-https://sergeimaiorov.github.io/webdev/js-tehtavat/js-mod03/m3_t5/m3_t5.html
+https://sergeimaiorov.github.io/webdev/js-tehtavat/js-mod03/m3_t4/m3_t4.html
 
-https://sergeimaiorov.github.io/webdev/js-tehtavat/js-mod03/m3_t7/m3_t7.html
+https://sergeimaiorov.github.io/webdev/js-tehtavat/js-mod03/m3_t5/m3_t5.html
 
 
 
@@ -71,4 +71,31 @@ Tehdyt tehtävät:
 
 
 ### JS-moduuli 4
--
+
+GitHub-repositorio
+
+https://github.com/SergeiMaiorov/webdev/tree/main/js-tehtavat/js-mod04
+
+
+GitHub Pages
+
+https://sergeimaiorov.github.io/webdev/js-tehtavat/js-mod03/m4_t1/t1.html
+
+https://sergeimaiorov.github.io/webdev/js-tehtavat/js-mod03/m4_t2/t2.html
+
+https://sergeimaiorov.github.io/webdev/js-tehtavat/js-mod03/m4_t3/t3.html
+
+https://sergeimaiorov.github.io/webdev/js-tehtavat/js-mod03/m4_t4/t4.html
+
+https://sergeimaiorov.github.io/webdev/js-tehtavat/js-mod03/m4_t7/t7.html
+
+
+
+Tehdyt tehtävät:
+- Tehtävä 1: 2 p
+- Tehtävä 2: 2 p
+- Tehtävä 3: 2 p
+- Tehtävä 4: 2 p
+- Tehtävä 7: 2 p
+
+**Yhteensä 10p**
