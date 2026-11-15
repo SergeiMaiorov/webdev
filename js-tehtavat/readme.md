@@ -79,15 +79,15 @@ https://github.com/SergeiMaiorov/webdev/tree/main/js-tehtavat/js-mod04
 
 GitHub Pages
 
-https://sergeimaiorov.github.io/webdev/js-tehtavat/js-mod04/m4_t1/t1.html
+https://sergeimaiorov.github.io/webdev/js-tehtavat/js-mod04/m4_t1/1.html
 
-https://sergeimaiorov.github.io/webdev/js-tehtavat/js-mod04/m4_t2/t2.html
+https://sergeimaiorov.github.io/webdev/js-tehtavat/js-mod04/m4_t2/2.html
 
-https://sergeimaiorov.github.io/webdev/js-tehtavat/js-mod04/m4_t3/t3.html
+https://sergeimaiorov.github.io/webdev/js-tehtavat/js-mod04/m4_t3/3.html
 
-https://sergeimaiorov.github.io/webdev/js-tehtavat/js-mod04/m4_t4/t4.html
+https://sergeimaiorov.github.io/webdev/js-tehtavat/js-mod04/m4_t4/4.html
 
-https://sergeimaiorov.github.io/webdev/js-tehtavat/js-mod04/m4_t7/t7.html
+https://sergeimaiorov.github.io/webdev/js-tehtavat/js-mod04/m4_t7/7.html
 
 
 
