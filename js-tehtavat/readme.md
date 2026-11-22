@@ -99,3 +99,16 @@ Tehdyt tehtävät:
 - Tehtävä 7: 2 p
 
 **Yhteensä 10p**
+
+
+### Python Flask -palvelin
+
+GitHub-repositorio
+https://github.com/SergeiMaiorov/webdev/tree/main/js-tehtavat/python-flask
+
+
+**Tehdyt tehtävät:**
+- Tehtävä 1: 4 p
+
+
+**Yhteensä 4p**
