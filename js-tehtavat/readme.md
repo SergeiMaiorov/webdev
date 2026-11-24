@@ -127,6 +127,7 @@ https://github.com/SergeiMaiorov/webdev/tree/main/js-tehtavat/js-mod05
 - https://sergeimaiorov.github.io/webdev/js-tehtavat/js-mod05/m5_t2/t2.html
 - https://sergeimaiorov.github.io/webdev/js-tehtavat/js-mod05/m5_t5/t5.html
 - https://sergeimaiorov.github.io/webdev/js-tehtavat/js-mod05/m5_t6/t6.html
+
 **Tehdyt tehtävät:**
 - Tehtävä 1: 2 p
 - Tehtävä 2: 3 p
