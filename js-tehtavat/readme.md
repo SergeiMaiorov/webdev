@@ -6,12 +6,12 @@
 
 ### JS-moduulit 1 ja 2
 
-GitHub-repositorio
+**GitHub-repositorio**
 
 https://github.com/SergeiMaiorov/webdev/tree/main/js-tehtavat/js-mod01-2
 
 
-GitHub Pages
+**GitHub Pages**
 
 https://sergeimaiorov.github.io/webdev/js-tehtavat/js-mod01-2/t1/t1.html
 
@@ -25,7 +25,7 @@ https://sergeimaiorov.github.io/webdev/js-tehtavat/js-mod01-2/t7/t7.html
 
 
 
-Tehdyt tehtävät:
+**Tehdyt tehtävät:**
 - Tehtävä 1: 1 p
 - Tehtävä 2: 2 p
 - Tehtävä 3: 3 p
@@ -40,12 +40,12 @@ Tehdyt tehtävät:
 
 ### JS-moduuli 3
 
-GitHub-repositorio
+**GitHub-repositorio**
 
 https://github.com/SergeiMaiorov/webdev/tree/main/js-tehtavat/js-mod03
 
 
-GitHub Pages
+**GitHub Pages**
 
 https://sergeimaiorov.github.io/webdev/js-tehtavat/js-mod03/m3_t1/m3_t1.html
 
@@ -59,7 +59,7 @@ https://sergeimaiorov.github.io/webdev/js-tehtavat/js-mod03/m3_t5/m3_t5.html
 
 
 
-Tehdyt tehtävät:
+**Tehdyt tehtävät:**
 - Tehtävä 1: 2 p
 - Tehtävä 2: 2 p
 - Tehtävä 3: 2 p
@@ -72,12 +72,12 @@ Tehdyt tehtävät:
 
 ### JS-moduuli 4
 
-GitHub-repositorio
+**GitHub-repositorio**
 
 https://github.com/SergeiMaiorov/webdev/tree/main/js-tehtavat/js-mod04
 
 
-GitHub Pages
+**GitHub Pages**
 
 https://sergeimaiorov.github.io/webdev/js-tehtavat/js-mod04/m4_t1/1.html
 
@@ -103,12 +103,34 @@ Tehdyt tehtävät:
 
 ### Python Flask -palvelin
 
-GitHub-repositorio
+**GitHub-repositorio**
 https://github.com/SergeiMaiorov/webdev/tree/main/js-tehtavat/python-flask
 
 
 **Tehdyt tehtävät:**
 - Tehtävä 1: 4 p
-
+#- Tehtävä 2: 10 p
 
 **Yhteensä 4p**
+
+
+
+
+### JS-moduuli 5
+
+**GitHub-repositorio**
+https://github.com/SergeiMaiorov/webdev/tree/main/js-tehtavat/js-mod05
+
+**GitHub Pages**
+
+- https://sergeimaiorov.github.io/webdev/js-tehtavat/js-mod05/t1/t1.html
+- https://sergeimaiorov.github.io/webdev/js-tehtavat/js-mod05/t2/t2.html
+- https://sergeimaiorov.github.io/webdev/js-tehtavat/js-mod05/t5/t5.html
+- https://sergeimaiorov.github.io/webdev/js-tehtavat/js-mod05/t6/t6.html
+**Tehdyt tehtävät:**
+- Tehtävä 1: 2 p
+- Tehtävä 2: 3 p
+- Tehtävä 5: 2 p
+#- Tehtävä 6: 4 p
+
+**Yhteensä 11p**
